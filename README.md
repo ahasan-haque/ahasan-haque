@@ -49,5 +49,5 @@ I like to contribute to [Stack Overflow](https://stackoverflow.com/users/5019169
 ### Where to find me
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/haque-ahsanul/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](ahsanul.haque.ovi@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahsanul.haque.ovi@gmail.com)
 
